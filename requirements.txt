@@ -1,0 +1,3 @@
+﻿Flask
+redis
+psycopg2
